@@ -10,4 +10,4 @@ A product knowledge graph requires high quality data to empower various downstre
 * Chenwei Zhang, Applied Scientist @ Amazon (cwzhang@amazon.com)
 * Xian Li, Senior Applied Scientist @ Amazon (xianlee@amazon.com)
 * Yan Liang, Applied Scientist @ Amazon (ynliang@amazon.com)
-* Xin Luna Dong, Senior Principle Scientist @ Amazon (lunadong@amazon.com)
+* Xin Luna Dong, Senior Principal Scientist @ Amazon (lunadong@amazon.com)
