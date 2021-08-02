@@ -40,6 +40,6 @@ Yan Liang is an Applied Scientist at Amazon working in the Product Graph team. H
 
 * Xin Luna Dong, Head Scientist at Facebook AR/VR Assistant
 
-<img src="./photos/Luna.jpg" width="150">
+<img src="./photos/Luna.jpg">
 
 Xin Luna Dong is the Head Scientist for Facebook AR/VR Assistant. Prior to joining Facebook, she was a Senior Principal Scientist at Amazon, leading the efforts of constructing Amazon Product Knowledge Graph, and before that one of the major contributors to the Google Knowledge Vault project, and has led the Knowledge-based Trust project, which is called the “Google Truth Machine” by Washington’s Post. She has co-authored books "Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases" and “Big Data Integration”, was awarded ACM Distinguished Member, and VLDB Early Career Research Contribution Award for “Advancing the state of the art of knowledge fusion”. She serves in the VLDB endowment and PVLDB advisory committee, and is a PC co-chair for WSDM 2022, VLDB 2021, KDD'2020 ADS Invited Talk Series, and Sigmod 2018.
