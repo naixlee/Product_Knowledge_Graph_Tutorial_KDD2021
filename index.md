@@ -32,6 +32,7 @@ Chenwei Zhang is an Applied Scientist at Amazon working in the Product Graph tea
 <img src="./photos/Xian.jpg" width="150">
 
 Xian Li is a Senior Applied Scientist at Amazon contributing to the knowledge cleaning and data quality control in Amazon Product Knowledge Graph. Before joining Amazon, she was a machine learning scientist at LinkedIn, where she was a major contributor to build LinkedIn's knowledge base of business entities and filed 6 patents. She received her Ph.D. from SUNY Binghamton and her research interests include data cleaning, truth finding in structured and unstructured data sources, data quality, and knowledge management. Xian previously gave a tutorial on fact checking at SIGKDD 2018.
+
 * Yan Liang, Applied Scientist @ Amazon (ynliang@amazon.com)
 <img src="./photos/Yan.jpg" width="150">
 
