@@ -7,12 +7,12 @@
 
 
 ### Slides:
-* Overview and Introduction 
-* Knowledge Extraction
-* Knowledge Cleaning
-* Ontology Construction
-* Applications
-* Conclusion and Future Directions
+1. Overview and Introduction (<a href="./slides/Intro.pdf">pdf</a>)
+2. Knowledge Extraction (<a href="./slides/knowledge_extraction.pdf">pdf</a>)
+3. Knowledge Cleaning (<a href="./slides/knowledge_cleaning.pdf">pdf</a>)
+4. Ontology Construction (<a href="./slides/ontology_mining.pdf">pdf</a>)
+5. Applications (<a href="./slides/applications.pdf">pdf</a>)
+6. Conclusion and Future Directions (<a href="./slides/conclusions.pdf">pdf</a>)
 
 
 ### Description
