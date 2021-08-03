@@ -1,5 +1,11 @@
 ## All You Need to Know to Build a Product Knowledge Graph (KDD 2021 Tutorial)
 
+### Key Questions the Tutorial Answers:
+* What are unique challenges to build a product knowledge graph and what are solutions?
+* Are these techniques applicable to building other domain knowledge graphs?
+* What are practical tips to make this to production? 
+
+
 ### Slides:
 * Overview and Introduction 
 * Knowledge Extraction
